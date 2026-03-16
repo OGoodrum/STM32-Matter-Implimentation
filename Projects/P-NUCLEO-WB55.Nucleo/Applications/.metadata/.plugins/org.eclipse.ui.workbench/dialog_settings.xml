@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<section name="ImportExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="1466"/>
+			<item key="DIALOG_Y_ORIGIN" value="371"/>
+			<item key="DIALOG_WIDTH" value="525"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_VIRTUAL_FOLDERS_ID" value="true"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_LINKS_IN_WORKSPACE_ID" value="true"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_PATH_VARIABLE_SELECTED_ID" value="true"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_PATH_VARIABLE_NAME_ID" value="PROJECT_LOC"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\olive\OneDrive\Documents\CubeMXPack\CubeMatterNewV1.4.2\STM32CubeExpansion_MATTER_V1.4.2\Projects\NUCLEO-WB55RG\Applications\Matter\AirQualitySensor-App\AirQualitySensor-App\Matter\Src"/>
+			<item value="C:\Users\olive\OneDrive\Documents\CubeMXPack\CubeMatterNewV1.4.2\STM32CubeExpansion_MATTER_V1.4.2\Projects\NUCLEO-WB55RG\Applications\Matter\AirQualitySensor-App\AirQualitySensor-App\STM32_WPAN\App"/>
+			<item value="C:\Users\olive\OneDrive\Documents\CubeMXPack\CubeMatterNewV1.4.2\STM32CubeExpansion_MATTER_V1.4.2\Projects\NUCLEO-WB55RG\Applications\Matter\AirQualitySensor-App\AirQualitySensor-App\System\Src"/>
+			<item value="C:\Users\olive\OneDrive\Documents\CubeMXPack\CubeMatterNewV1.4.2\STM32CubeExpansion_MATTER_V1.4.2\Projects\NUCLEO-WB55RG\Applications\Matter\AirQualitySensor-App\Matter\Src"/>
+			<item value="C:\Users\olive\OneDrive\Documents\CubeMXPack\CubeMatterNewV1.4.2\STM32CubeExpansion_MATTER_V1.4.2\Projects\NUCLEO-WB55RG\Applications\Matter\AirQualitySensor-App\Matter"/>
+			<item value="C:\Users\olive\OneDrive\Documents\CubeMXPack\STM32CubeExpansion_MATTER_V1.4.2\Drivers\Sensiron_SCD30_Driver\Src"/>
+			<item value="C:\Users\olive\OneDrive\Documents\CubeMXPack\STM32CubeExpansion_MATTER_V1.4.2\Drivers\BSP\P-NUCLEO-WB55.Nucleo"/>
+			<item value="C:\Users\olive\OneDrive\Documents\CubeMXPack\stm32wb-matter-device-over-thread-main\Drivers\Sensiron_SCD30_Driver"/>
+		</list>
+		<section name="FileSystemImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="1466"/>
+			<item key="DIALOG_Y_ORIGIN" value="371"/>
+			<item key="DIALOG_WIDTH" value="623"/>
+			<item key="DIALOG_HEIGHT" value="685"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

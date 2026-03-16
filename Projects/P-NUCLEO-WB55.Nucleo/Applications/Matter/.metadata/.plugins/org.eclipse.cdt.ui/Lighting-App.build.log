@@ -1,0 +1,7 @@
+15:16:41 **** Incremental Build of configuration Debug for project Lighting-App ****
+make -j4 all 
+make: Interrupt/Exception caught (code = 0xc0000005, addr = 0x00007FFEBEC6D728)
+"make -j4 all" terminated with exit code 255. Build might be incomplete.
+
+15:16:43 Build Finished. 0 errors, 0 warnings. (took 1s.775ms)
+

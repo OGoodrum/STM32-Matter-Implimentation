@@ -1,0 +1,8 @@
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/memory_buffer_alloc.c:125:12:verify_header	0	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/memory_buffer_alloc.c:165:12:verify_chain	16	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/memory_buffer_alloc.c:543:14:buffer_alloc_calloc_mutexed	24	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/memory_buffer_alloc.c:556:13:buffer_alloc_free_mutexed	24	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/memory_buffer_alloc.c:493:6:mbedtls_memory_buffer_set_verify	0	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/memory_buffer_alloc.c:498:5:mbedtls_memory_buffer_alloc_verify	0	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/memory_buffer_alloc.c:568:6:mbedtls_memory_buffer_alloc_init	16	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/memory_buffer_alloc.c:602:6:mbedtls_memory_buffer_alloc_free	8	static

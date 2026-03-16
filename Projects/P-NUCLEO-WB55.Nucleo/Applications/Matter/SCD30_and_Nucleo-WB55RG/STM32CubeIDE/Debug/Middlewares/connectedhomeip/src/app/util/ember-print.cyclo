@@ -1,0 +1,4 @@
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/util/ember-print.cpp:34:6:)	2
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/util/ember-print.cpp:46:6:)	2
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/util/ember-print.cpp:60:6:void emberAfPrintBuffer(int, const uint8_t*, uint16_t, bool)	7
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/util/ember-print.cpp:98:6:void emberAfPrintString(int, const uint8_t*)	1

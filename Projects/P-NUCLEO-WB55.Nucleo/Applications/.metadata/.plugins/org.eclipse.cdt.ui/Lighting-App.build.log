@@ -1,0 +1,10 @@
+10:51:52 **** Build of configuration Debug for project Lighting-App ****
+make -j4 all 
+arm-none-eabi-size  Lighting-App.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 428728	   1074	 134843	 564645	  89da5	Lighting-App.elf
+Finished building: default.size.stdout
+ 
+
+10:52:06 Build Finished. 0 errors, 0 warnings. (took 14s.636ms)
+

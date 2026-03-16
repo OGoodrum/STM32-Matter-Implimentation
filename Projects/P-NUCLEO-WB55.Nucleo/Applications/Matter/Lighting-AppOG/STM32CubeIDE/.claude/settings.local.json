@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-App/Core/Src/**)"
+    ]
+  }
+}

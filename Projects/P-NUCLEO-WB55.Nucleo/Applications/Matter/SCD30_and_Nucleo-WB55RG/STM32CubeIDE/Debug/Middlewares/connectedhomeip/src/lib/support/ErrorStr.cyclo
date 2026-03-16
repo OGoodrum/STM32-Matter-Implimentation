@@ -1,0 +1,4 @@
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/lib/support/ErrorStr.cpp:115:17:void chip::RegisterErrorFormatter(ErrorFormatter*)	3
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/lib/support/ErrorStr.cpp:138:17:void chip::DeregisterErrorFormatter(ErrorFormatter*)	3
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/lib/support/ErrorStr.cpp:166:17:void chip::FormatError(char*, uint16_t, const char*, CHIP_ERROR, const char*)	3
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/lib/support/ErrorStr.cpp:57:25:const char* chip::ErrorStr(CHIP_ERROR)	4

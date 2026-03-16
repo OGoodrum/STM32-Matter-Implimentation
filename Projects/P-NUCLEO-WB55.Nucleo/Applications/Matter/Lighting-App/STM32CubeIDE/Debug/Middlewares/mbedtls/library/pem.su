@@ -1,0 +1,4 @@
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/pem.c:38:6:mbedtls_pem_init	0	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/pem.c:240:5:mbedtls_pem_read_buffer	48	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/pem.c:460:6:mbedtls_pem_free	8	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/pem.c:473:5:mbedtls_pem_write_buffer	64	static

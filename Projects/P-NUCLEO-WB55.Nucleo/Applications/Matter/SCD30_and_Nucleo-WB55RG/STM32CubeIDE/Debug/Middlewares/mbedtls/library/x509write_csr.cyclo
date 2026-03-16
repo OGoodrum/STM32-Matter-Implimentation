@@ -1,0 +1,10 @@
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/x509write_csr.c:49:6:mbedtls_x509write_csr_init	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/x509write_csr.c:54:6:mbedtls_x509write_csr_free	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/x509write_csr.c:62:6:mbedtls_x509write_csr_set_md_alg	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/x509write_csr.c:67:6:mbedtls_x509write_csr_set_key	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/x509write_csr.c:72:5:mbedtls_x509write_csr_set_subject_name	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/x509write_csr.c:78:5:mbedtls_x509write_csr_set_extension	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/x509write_csr.c:86:5:mbedtls_x509write_csr_set_key_usage	2
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/x509write_csr.c:109:5:mbedtls_x509write_csr_set_ns_cert_type	2
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/x509write_csr.c:291:5:mbedtls_x509write_csr_der	26
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/x509write_csr.c:314:5:mbedtls_x509write_csr_pem	2

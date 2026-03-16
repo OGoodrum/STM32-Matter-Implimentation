@@ -1,0 +1,2 @@
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributePathIBs.cpp:75:28:chip::app::AttributePathIB::Builder& chip::app::AttributePathIBs::Builder::CreatePath()	16	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributePathIBs.cpp:85:29:chip::app::AttributePathIBs::Builder& chip::app::AttributePathIBs::Builder::EndOfAttributePathIBs()	8	static

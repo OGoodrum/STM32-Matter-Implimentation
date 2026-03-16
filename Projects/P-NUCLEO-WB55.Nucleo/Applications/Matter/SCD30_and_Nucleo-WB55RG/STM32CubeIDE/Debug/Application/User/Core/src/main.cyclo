@@ -1,0 +1,7 @@
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:void LL_AHB2_GRP1_EnableClock(uint32_t)	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-App/Core/Src/main.cpp:488:6:void SensorTaskMain(void*)	3
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-App/Core/Src/main.cpp:559:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	2
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-App/Core/Src/main.cpp:571:6:void Error_Handler()	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-App/Core/Src/main.cpp:94:5:int main()	10
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-App/Core/Src/main.cpp:580:6:void RTOS_AppConfigureTimerForRuntimeStats()	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-App/Core/Src/main.cpp:590:10:uint32_t RTOS_AppGetRuntimeCounterValueFromISR()	1

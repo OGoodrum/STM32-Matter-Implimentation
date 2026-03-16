@@ -1,0 +1,2 @@
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventReportIBs.cpp:72:26:chip::app::EventReportIB::Builder& chip::app::EventReportIBs::Builder::CreateEventReport()	16	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventReportIBs.cpp:81:27:chip::app::EventReportIBs::Builder& chip::app::EventReportIBs::Builder::EndOfEventReports()	8	static

@@ -1,0 +1,11 @@
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:316:26:delete_key.isra	4
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:280:26:flash_update.isra	6
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:85:6:NM_Init	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:95:19:NM_Check_Validity	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:103:19:NM_Dump	3
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:153:19:NM_GetOtNVMAddr	2
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:226:6:NM_ResetFactory	1
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:240:17:SearchKey	4
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:123:19:NM_GetKeyValue	7
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:161:19:NM_SetKeyValue	8
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/flash_wb.c:200:9:NM_DeleteKey	5

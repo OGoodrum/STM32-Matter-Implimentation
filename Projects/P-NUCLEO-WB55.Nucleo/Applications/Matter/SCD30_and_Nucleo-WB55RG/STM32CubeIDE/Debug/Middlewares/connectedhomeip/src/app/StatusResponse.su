@@ -1,0 +1,3 @@
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/system/SystemPacketBuffer.h:428:5:chip::System::PacketBufferHandle::~PacketBufferHandle()	8	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/StatusResponse.cpp:25:12:static CHIP_ERROR chip::app::StatusResponse::Send(chip::Protocols::InteractionModel::Status, chip::Messaging::ExchangeContext*, bool)	120	static
+C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/StatusResponse.cpp:47:12:static CHIP_ERROR chip::app::StatusResponse::ProcessStatusResponse(chip::System::PacketBufferHandle&&, CHIP_ERROR&)	144	static
