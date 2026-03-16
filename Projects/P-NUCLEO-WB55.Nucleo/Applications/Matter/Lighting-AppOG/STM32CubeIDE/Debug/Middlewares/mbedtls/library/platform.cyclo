@@ -1,5 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/platform.c:59:7:mbedtls_calloc	1
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/platform.c:64:6:mbedtls_free	1
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/platform.c:69:5:mbedtls_platform_set_calloc_free	1
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/platform.c:370:5:mbedtls_platform_setup	1
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/platform.c:380:6:mbedtls_platform_teardown	1

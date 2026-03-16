@@ -1,5 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/server.c:35:9:otServerGetNetDataLocal	24	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/server.c:54:9:otServerAddService	8	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/server.c:71:9:otServerRemoveService	24	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/server.c:93:9:otServerGetNextService	16	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/server.c:111:9:otServerRegister	8	static

@@ -1,2 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributeStatusIBs.cpp:32:30:chip::app::AttributeStatusIB::Builder& chip::app::AttributeStatusIBs::Builder::CreateAttributeStatus()	2
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributeStatusIBs.cpp:41:31:chip::app::AttributeStatusIBs::Builder& chip::app::AttributeStatusIBs::Builder::EndOfAttributeStatuses()	1

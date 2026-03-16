@@ -1,2 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/platform/CommissionableDataProvider.cpp:30:30:chip::DeviceLayer::CommissionableDataProvider* chip::DeviceLayer::GetCommissionableDataProvider()	1
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/platform/CommissionableDataProvider.cpp:36:6:void chip::DeviceLayer::SetCommissionableDataProvider(CommissionableDataProvider*)	2

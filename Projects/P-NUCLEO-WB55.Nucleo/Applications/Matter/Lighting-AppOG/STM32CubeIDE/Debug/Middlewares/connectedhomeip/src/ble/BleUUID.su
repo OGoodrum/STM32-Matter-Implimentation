@@ -1,2 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/ble/BleUUID.cpp:40:6:bool chip::Ble::UUIDsMatch(const ChipBleUUID*, const ChipBleUUID*)	8	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/ble/BleUUID.cpp:50:6:bool chip::Ble::StringToUUID(const char*, ChipBleUUID&)	32	static

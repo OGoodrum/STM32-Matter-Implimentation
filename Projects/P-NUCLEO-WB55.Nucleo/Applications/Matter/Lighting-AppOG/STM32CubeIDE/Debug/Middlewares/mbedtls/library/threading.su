@@ -1,4 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/threading.c:129:12:threading_mutex_fail	0	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/threading.c:134:13:threading_mutex_dummy	0	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/threading.c:148:6:mbedtls_threading_set_alt	8	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/mbedtls/library/threading.c:169:6:mbedtls_threading_free_alt	0	static

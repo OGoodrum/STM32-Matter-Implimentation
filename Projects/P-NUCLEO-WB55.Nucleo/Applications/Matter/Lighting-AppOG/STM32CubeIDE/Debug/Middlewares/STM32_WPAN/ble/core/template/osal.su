@@ -1,3 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/ST/STM32_WPAN/ble/core/template/osal.c:28:7:Osal_MemCpy	0	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/ST/STM32_WPAN/ble/core/template/osal.c:38:7:Osal_MemSet	0	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/ST/STM32_WPAN/ble/core/template/osal.c:47:5:Osal_MemCmp	0	static

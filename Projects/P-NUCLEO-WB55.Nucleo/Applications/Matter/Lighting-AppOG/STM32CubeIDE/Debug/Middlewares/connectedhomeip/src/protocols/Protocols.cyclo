@@ -1,2 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/protocols/Protocols.cpp:42:14:const char* chip::Protocols::GetProtocolName(Id)	3
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/protocols/Protocols.cpp:76:14:const char* chip::Protocols::GetMessageTypeName(Id, uint8_t)	9

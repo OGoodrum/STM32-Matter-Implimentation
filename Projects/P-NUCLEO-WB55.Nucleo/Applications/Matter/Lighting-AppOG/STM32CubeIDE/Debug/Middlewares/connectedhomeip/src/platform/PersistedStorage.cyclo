@@ -1,2 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/platform/PersistedStorage.cpp:35:12:CHIP_ERROR chip::Platform::PersistedStorage::Read(Key, uint32_t&)	1
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/platform/PersistedStorage.cpp:40:12:CHIP_ERROR chip::Platform::PersistedStorage::Write(Key, uint32_t)	1

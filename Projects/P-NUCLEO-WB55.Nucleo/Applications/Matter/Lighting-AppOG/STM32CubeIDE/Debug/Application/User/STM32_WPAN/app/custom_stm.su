@@ -1,3 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/STM32_WPAN/App/custom_stm.c:168:30:Matter_Event_Handler	16	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/STM32_WPAN/App/custom_stm.c:82:6:SVCCTL_InitCustomSvc	80	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/STM32_WPAN/App/custom_stm.c:143:12:CUSTOM_STM_App_Update_Char	16	static

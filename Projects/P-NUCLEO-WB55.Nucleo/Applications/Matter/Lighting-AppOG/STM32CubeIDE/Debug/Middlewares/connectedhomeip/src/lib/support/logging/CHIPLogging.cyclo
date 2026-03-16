@@ -1,6 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/CHIPLogging.cpp:142:6:void chip::Logging::SetLogRedirectCallback(LogRedirectCallback_t)	1
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/CHIPLogging.cpp:209:6:void chip::Logging::LogV(uint8_t, uint8_t, const char*, va_list)	2
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/CHIPLogging.cpp:169:6:)	1
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/CHIPLogging.cpp:178:6:void chip::Logging::LogByteSpan(uint8_t, uint8_t, const chip::ByteSpan&)	6
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/CHIPLogging.cpp:238:9:uint8_t chip::Logging::GetLogFilter()	1
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/CHIPLogging.cpp:243:6:void chip::Logging::SetLogFilter(uint8_t)	1

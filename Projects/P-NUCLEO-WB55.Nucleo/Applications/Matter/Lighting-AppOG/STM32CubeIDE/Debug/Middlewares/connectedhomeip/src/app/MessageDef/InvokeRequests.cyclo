@@ -1,2 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/InvokeRequests.cpp:73:26:chip::app::CommandDataIB::Builder& chip::app::InvokeRequests::Builder::CreateCommandData()	2
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/InvokeRequests.cpp:82:27:chip::app::InvokeRequests::Builder& chip::app::InvokeRequests::Builder::EndOfInvokeRequests()	1

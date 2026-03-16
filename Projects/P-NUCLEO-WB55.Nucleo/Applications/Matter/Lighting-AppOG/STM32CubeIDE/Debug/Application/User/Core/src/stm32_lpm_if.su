@@ -1,8 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/stm32_lpm_if.c:209:6:PWR_EnterSleepMode	8	static,ignoring_inline_asm
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/stm32_lpm_if.c:120:6:PWR_ExitOffMode	0	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/stm32_lpm_if.c:186:6:PWR_ExitStopMode	0	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/stm32_lpm_if.c:242:6:PWR_ExitSleepMode	0	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/stm32_lpm_if.c:335:13:Switch_On_HSI	0	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/stm32_lpm_if.c:264:13:EnterLowPower	8	static
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/stm32_lpm_if.c:71:6:PWR_EnterOffMode	8	static,ignoring_inline_asm
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Projects/P-NUCLEO-WB55.Nucleo/Applications/Matter/Lighting-AppOG/Core/Src/stm32_lpm_if.c:138:6:PWR_EnterStopMode	8	static,ignoring_inline_asm

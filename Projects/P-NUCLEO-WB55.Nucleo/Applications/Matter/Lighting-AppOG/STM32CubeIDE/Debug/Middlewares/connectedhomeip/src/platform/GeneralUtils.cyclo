@@ -1,3 +1,0 @@
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/platform/GeneralUtils.cpp:53:6:bool chip::DeviceLayer::FormatDeviceLayerError(char*, uint16_t, CHIP_ERROR)	3
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/platform/GeneralUtils.cpp:34:6:void chip::DeviceLayer::RegisterDeviceLayerErrorFormatter()	1
-C:/Users/olive/OneDrive/Documents/CubeMXPack/stm32wb-matter-device-over-thread-main/Middlewares/Third_Party/connectedhomeip/src/platform/GeneralUtils.cpp:79:14:const char* chip::DeviceLayer::CharacterizeIPv6Address(const chip::Inet::IPAddress&)	3
